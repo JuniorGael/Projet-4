@@ -484,7 +484,7 @@ button {
 }
 
 .txt {
-    color: #212121;
+    color: #212121!important;
 }
 
 .icon-lg {
