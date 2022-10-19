@@ -685,7 +685,11 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 16px;
+}
+
+.text-center {
+    font-size: 12px;
 }
 
 .tight-width-whitespace {
